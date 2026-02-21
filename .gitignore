@@ -2,3 +2,5 @@
 scraping.log
 static/
 *_data.csv
+.idea/
+.env
