@@ -1,0 +1,4 @@
+.venv/
+scraping.log
+static/
+*_data.csv
